@@ -1,0 +1,9 @@
+D:\1-Work\Desarrollo\C#\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\1-Work\Desarrollo\C#\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\1-Work\Desarrollo\C#\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\1-Work\Desarrollo\C#\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\1-Work\Desarrollo\C#\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\1-Work\Desarrollo\C#\WindowsApplication1\WindowsApplication1\obj\Debug\SG.csproj.GenerateResource.Cache
+D:\1-Work\Desarrollo\C#\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\1-Work\Desarrollo\C#\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\1-Work\Desarrollo\C#\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Mes.resources
